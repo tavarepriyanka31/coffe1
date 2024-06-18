@@ -455,9 +455,7 @@ html::-webkit-scrollbar{
 .credite a span{
   color: black;
 }
-.copyright span{
-  color: black;
-}
+
 /* footer end*/
 html{
   scroll-behavior: smooth;
